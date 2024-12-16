@@ -1,4 +1,4 @@
-# Tugas 11: Node.js CRUD dengan MySQL
+![WhatsApp Image 2024-12-16 at 11 44 47_e908ffd1](https://github.com/user-attachments/assets/401893e8-2141-41ce-89f7-b14276d5907b)# Tugas 11: Node.js CRUD dengan MySQL
 
 *Nama*: M. Zulfan M. A 
 *Kelas*: TI23A  
@@ -24,7 +24,17 @@ Endpoint ini mengembalikan semua data mahasiswa yang ada di database.
 
 ---
 
-### 3. *GET*: Mendapatkan Data Mahasiswa Berdasarkan NIM
-Endpoint ini digunakan untuk mengambil data mahasiswa berdasarkan NIM tertentu dari database.  
+### 3. *PUT*: Memperbarui Data Mahasiswa Berdasarkan NIM
+Endpoint ini digunakan untuk memperbarui data mahasiswa di database berdasarkan NIM. 
 *Screenshot*:  
-![GET Endpoint](https://github.com/user-attachments/assets/ad44e897-50d8-4296-b04f-994b7bd4e3ad)
+![GET Endpoint](https://github.com/user-attachments/assets/9d4e62eb-257e-4448-83ee-702167b22a29)
+
+---
+
+### 4. *DELETE*: Menghapus Data Mahasiswa Berdasarkan NIM
+Endpoint ini digunakan untuk menghapus data mahasiswa dari database berdasarkan NIM.
+*Screenshot*:  
+![DELETE Endpoint](https://github.com/user-attachments/assets/9037b4a2-0f3c-47ca-b915-2bd88cffd499)
+
+
+
